@@ -2,13 +2,13 @@
 Use GSAP ScrollTrigger to scroll through a Lottie animation with your mouse or scrollbar
 
 ## Dependencies
-Greensock GSAP 3.x
+- Greensock GSAP 3.x
 https://cdnjs.com/libraries/gsap
 
-Greensock ScrollTrigger (paid plugin)
+- Greensock ScrollTrigger (paid plugin)
 https://greensock.com/scrolltrigger
 
-Lottie player
+- Lottie player
 https://cdnjs.com/libraries/bodymovin
 
 
