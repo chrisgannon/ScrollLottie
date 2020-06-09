@@ -16,7 +16,7 @@ https://cdnjs.com/libraries/bodymovin
 https://codepen.io/chrisgannon/pen/7e302171605cbc4274ce44733189ffe9 
 
 ### Useage
-    //ScrollLottie (targetDIV, lottieJSONPath, easeDuration, speed);
+    //ScrollLottie (target: String, jsonPath: String, easeDuration: Number, speed: String "fast" | "medium" | "slow")
 
     ScrollLottie({
      target: '#animationWindow',
