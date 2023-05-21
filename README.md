@@ -15,7 +15,7 @@ https://cdnjs.com/libraries/bodymovin
 ### Codepen demo
 https://codepen.io/chrisgannon/pen/7e302171605cbc4274ce44733189ffe9 
 
-### Useage
+### Usage
     //ScrollLottie (target: String, jsonPath: String, easeDuration: Number, speed: String "fast" | "medium" | "slow")
 
     ScrollLottie({
